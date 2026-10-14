@@ -9,7 +9,7 @@ namespace SourceControlTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello sorce control");
+            MessageBox.Show("Hello source control");
         }
     }
 }
